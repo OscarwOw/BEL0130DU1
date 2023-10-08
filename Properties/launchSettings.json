@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BEL0130DU1": {
+      "commandName": "Project",
+      "commandLineArgs": "dataset.csv"
+    }
+  }
+}
